@@ -1,7 +1,7 @@
 # IDA-Features
 This repository will contains a collection of custom IDA Pro plugins, scripts, loaders, and utilities. These tools are designed to enhance the capabilities of IDA Pro for reverse engineering, debugging, and analysis tasks.
 
-- Note: Im using IDA Pro *Version 7.6* so i recommend to use this plugins & loaders & scripts under this version.
+- Note: Im using IDA Pro *Version 7.6* so i recommend to use the plugins & loaders & scripts only with this version.
 
 ## Usage
 #### Loaders
